@@ -14,7 +14,5 @@ const palindromes = function (input) {
     return false;
 };
 
-(palindromes("A car, a man, a maraca."))
-
 // Do not edit below this line
 module.exports = palindromes;
